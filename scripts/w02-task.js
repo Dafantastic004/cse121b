@@ -5,7 +5,7 @@
 /* Step 2 - Variables */
 let fullName='Momoh Destiny';
 let currentYear='2024';
-let ProfilePic='images/pic.png';
+let ProfilePic='images/pic.jpg';
 
 
 
